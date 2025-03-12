@@ -1,0 +1,7 @@
+{
+    "parallelizeTestCollections": true,
+    "maxParallelThreads": 3,
+    "diagnosticMessages": true,
+    "internalDiagnosticMessages": true,
+    "testTimeout": 60000
+}
