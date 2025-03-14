@@ -24,4 +24,3 @@ dotnet add reference ../Domain/Domain.csproj
 # 3. Infrastructure ต้องอ้างอิง Domain
 cd ../Infrastructure
 dotnet add reference ../Domain/Domain.csproj
-
